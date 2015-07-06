@@ -15,7 +15,7 @@ angular.module('templateStore.templates',['ngRoute'])
 }])
 
 .controller('TemplatesCtrl', ['$scope', function($scope){
-    
+
 }])
 
 .controller('TemplateDetailsCtrl', ['$scope', function($scope){
